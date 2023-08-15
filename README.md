@@ -14,4 +14,4 @@ All you need are your curiosity and the following tools:
 ### Let's Collaborate
 
 I'm all ears for your input! Feel free to connect if you come across a bug, have a suggestion, or simply want to chat about stock trends. Contribute by forking this repository, creating a branch, and submitting a pull request. Together, we can enhance this project's value.
-Thank you and enjoy it! 
+Thank you and enjoy it!
